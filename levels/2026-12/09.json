@@ -1,0 +1,38 @@
+{
+  "id": "2026-12-09",
+  "target_score": 70,
+  "item_list": [
+    {
+      "shape": "solid_3x3",
+      "rotation": 0,
+      "position": {
+        "row": 5,
+        "column": 0
+      }
+    },
+    {
+      "shape": "l",
+      "rotation": 180,
+      "position": {
+        "row": 4,
+        "column": 2
+      }
+    },
+    {
+      "shape": "line_3",
+      "rotation": 90,
+      "position": {
+        "row": 4,
+        "column": 4
+      }
+    },
+    {
+      "shape": "line_5",
+      "rotation": 180,
+      "position": {
+        "row": 3,
+        "column": 1
+      }
+    }
+  ]
+}
