@@ -1,0 +1,54 @@
+{
+  "id": "2026-11-22",
+  "target_score": 1075,
+  "item_list": [
+    {
+      "shape": "line_4",
+      "rotation": 90,
+      "position": {
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "shape": "corner",
+      "rotation": 0,
+      "position": {
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "shape": "line_3",
+      "rotation": 90,
+      "position": {
+        "row": 2,
+        "column": 1
+      }
+    },
+    {
+      "shape": "line_5",
+      "rotation": 270,
+      "position": {
+        "row": 2,
+        "column": 2
+      }
+    },
+    {
+      "shape": "t",
+      "rotation": 270,
+      "position": {
+        "row": 3,
+        "column": 3
+      }
+    },
+    {
+      "shape": "z",
+      "rotation": 0,
+      "position": {
+        "row": 1,
+        "column": 2
+      }
+    }
+  ]
+}
